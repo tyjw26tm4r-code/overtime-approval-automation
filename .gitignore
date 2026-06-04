@@ -1,0 +1,32 @@
+# 敏感信息
+*.env
+*.config
+secrets.json
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+~*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 依赖
+node_modules/
+pip-packages/
+
+# 构建输出
+dist/
+build/
+out/
