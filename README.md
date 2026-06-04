@@ -51,7 +51,7 @@
 1. [环境准备](docs/01_环境准备.md) - 检查前置条件
 2. [SharePoint 设置](docs/02_SharePoint设置.md) - 创建审批流程数据库
 3. [Excel 准备](docs/03_Excel准备.md) - 准备员工信息
-4. [Power Apps 创建](docs/04_PowerApps创建) - 逐步构建应用
+4. [Power Apps 创建](docs/04_PowerApps创建.md) - 逐步构建应用
 5. [Power Automate 配置](docs/05_PowerAutomate流程.md) - 配置审批流程
 6. [邮件通知设置](docs/06_邮件模板.md) - 邮件模板配置
 7. [部署清单](docs/07_部署清单.md) - 上线前检查
